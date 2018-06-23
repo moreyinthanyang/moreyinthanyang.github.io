@@ -9,16 +9,16 @@ import Sidebar from '../components/sidebar'
 import './index.css'
 import '../styles/layout-override.css'
 
-const Layout = ({ children, data }) => (
+const Layout = ({ children }) => (
   <div>
     <Helmet
-      title={data.site.siteMetadata.title}
+      title='More Yin Than Yang'
       meta={[
         { name: 'description', content: 'Sample' },
         { name: 'keywords', content: 'sample, something' },
       ]}
     />
-    <Header siteTitle={data.site.siteMetadata.title} />
+    <Header title='More Yin Than Yang'/>
     <div
       style={{
         margin: '0 auto',
@@ -64,12 +64,12 @@ const Layout = ({ children, data }) => (
 
               <div style={{ flex:1 }}>
                 <Sidebar
-                  title="More Yin Than Yang"
-                  description="Girl moving to Germany"
+                  title='More Yin Than Yang '
+                  description='Germany Blog aslkfjdaslkfjasdklfjadskljfasdlkjfads'
                 />
                 <Sidebar
-                  title="About More Yin Than Yang"
-                  description="Asian girl moving to Germany"
+                  title='About More Yin Than Yang '
+                  description='Girl moving to Germany aslkfjdaslkfjasdklfjadskljfasdlkjfads '
                 />
               </div>
             </div>

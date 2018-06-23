@@ -1,9 +1,8 @@
 import React from 'react'
 import Link from 'gatsby-link'
-import Media from 'react-media'
 
 
-const Header = ({ siteTitle }) => (
+const Header = () => (
   <div
     style={{
       background: '#F5F5F5',
@@ -26,7 +25,7 @@ const Header = ({ siteTitle }) => (
             textDecoration: 'none',
           }}
         >
-          {siteTitle}
+          More Yin Than Yang
         </Link>
       </h1>
     </div>
