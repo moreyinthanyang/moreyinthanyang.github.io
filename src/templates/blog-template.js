@@ -11,6 +11,8 @@ export default function Template({
      <Helmet title={`CodeStack - ${post.frontmatter.title}`} />
       <div className="blog-post">
         <h1>{post.frontmatter.title}</h1>
+        <h4>{post.frontmatter.subtitle}</h4>
+        <h6>{post.frontmatter.date}</h6>
         <div
           className="blog-post-content"
           dangerouslySetInnerHTML={{ __html: post.html }}
@@ -28,6 +30,7 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         path
         title
+        subtitle
       }
     }
   }
