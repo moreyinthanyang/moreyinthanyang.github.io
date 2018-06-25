@@ -16,6 +16,7 @@ export default function Index({ data }) {
               <h1>
                 <Link to={post.frontmatter.path}>{post.frontmatter.title}</Link>
               </h1>
+              <h5>{post.frontmatter.subtitle}</h5>
               <h2>{post.frontmatter.date}</h2>
               <p>{post.excerpt}</p>
             </div>
@@ -35,6 +36,7 @@ export const pageQuery = graphql`
             title
             date(formatString: "MMMM DD, YYYY")
             path
+            subtitle
           }
         }
       }
