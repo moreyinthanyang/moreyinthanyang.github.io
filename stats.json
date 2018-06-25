@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-0e7887491c4f284e066f.js",
-      "component---src-pages-index-js-0e7887491c4f284e066f.js.map"
+      "component---src-pages-index-js-809575c9738bb5c22c5a.js",
+      "component---src-pages-index-js-809575c9738bb5c22c5a.js.map"
     ],
     "path---": [
       "path----fb0a0bc612aacafcbdfe.js",
@@ -11,6 +11,10 @@
     "component---src-layouts-index-js": [
       "component---src-layouts-index-js-ae0b1b4a14c26379a9ea.js",
       "component---src-layouts-index-js-ae0b1b4a14c26379a9ea.js.map"
+    ],
+    "path---germany-rental-scams": [
+      "path---germany-rental-scams-5b60bae868d64dcdbb88.js",
+      "path---germany-rental-scams-5b60bae868d64dcdbb88.js.map"
     ],
     "component---src-templates-blog-template-js": [
       "component---src-templates-blog-template-js-ceb940f9f525cb289f3e.js",
@@ -21,12 +25,12 @@
       "path---page-2-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---index": [
-      "path---index-ce66acb17071cf47f908.js",
-      "path---index-ce66acb17071cf47f908.js.map"
+      "path---index-2de472ac022a534de03f.js",
+      "path---index-2de472ac022a534de03f.js.map"
     ],
     "path---hello-world": [
-      "path---hello-world-55d7b2c8ee55693dba45.js",
-      "path---hello-world-55d7b2c8ee55693dba45.js.map"
+      "path---hello-world-0f7a2557a9a8f3bf60f4.js",
+      "path---hello-world-0f7a2557a9a8f3bf60f4.js.map"
     ],
     "path---moving-to-germany": [
       "path---moving-to-germany-c17299bd3c19276fe789.js",
@@ -51,9 +55,9 @@
       "component---src-pages-page-2-js-65f0147ecb0dc4da2a2b.js.map"
     ],
     "app": [
-      "app-7ce8dcfa59e48c3ae577.js",
+      "app-f6b2f87e3797422110c0.js",
       "build-js-styles.css",
-      "app-7ce8dcfa59e48c3ae577.js.map",
+      "app-f6b2f87e3797422110c0.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
