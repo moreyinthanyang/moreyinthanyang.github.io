@@ -64,8 +64,8 @@ const Layout = ({ children }) => (
 
               <div style={{ flex:1 }}>
                 <Sidebar
-                  title='About '
-                  description=' This is a blog about moving to Germany.'
+                  title='More Yin Than Yang '
+                  description='  is a blog about moving to Germany.'
                 />
               </div>
             </div>
