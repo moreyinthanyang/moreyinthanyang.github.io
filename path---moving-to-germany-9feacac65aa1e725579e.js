@@ -1,2 +1,0 @@
-webpackJsonp([0x92413640b273],{334:function(t,n){t.exports={data:{markdownRemark:{html:'<iframe \n    width="853" \n    height="480"\n    src="https://www.youtube.com/embed/tgbNymZ7vqY"\n>\n</iframe>\n<p>I\'m moving to Germany this summer!</p>',frontmatter:{date:"June 24, 2018",path:"/moving-to-germany",title:"I'm Moving to Germany"}}},pathContext:{}}}});
-//# sourceMappingURL=path---moving-to-germany-9feacac65aa1e725579e.js.map
