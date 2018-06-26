@@ -7,7 +7,7 @@ subtitle: "My personal experiences with an online scammer"
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YSCjlYQMzLk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-I made this video to warn everyone about the apartment rental scams that are going on in Germany, especially for housing in bigger cities such as Munich, Cologne, Frankfurt, etc. This topic came to my attention, as someone tried to scam me when I was looking for an apartment to rent online through a reputable site. 
+I made this video to warn everyone about the apartment rental scams that are going on in Germany, especially for housing in bigger cities such as Munich, Cologne, Frankfurt, Hamburg etc. This topic came to my attention, as someone tried to scam me when I was looking for an apartment to rent online through a reputable site. 
 
 In this video, I explain what happend and I also show you all the scammy emails that were sent to me so that you can hopefully recognize when you're being scammed. 
 
