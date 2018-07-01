@@ -25,8 +25,8 @@
       "path---page-2-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---index": [
-      "path---index-a4eb6d58b8f3a6801fcd.js",
-      "path---index-a4eb6d58b8f3a6801fcd.js.map"
+      "path---index-c33a51e029b3b3f1ea26.js",
+      "path---index-c33a51e029b3b3f1ea26.js.map"
     ],
     "path---hello-world": [
       "path---hello-world-0f7a2557a9a8f3bf60f4.js",
@@ -54,10 +54,14 @@
       "component---src-pages-page-2-js-65f0147ecb0dc4da2a2b.js",
       "component---src-pages-page-2-js-65f0147ecb0dc4da2a2b.js.map"
     ],
+    "path---best-bank-accounts-in-germany": [
+      "path---best-bank-accounts-in-germany-11f2baf65ffddd9f1512.js",
+      "path---best-bank-accounts-in-germany-11f2baf65ffddd9f1512.js.map"
+    ],
     "app": [
-      "app-d93028fd81b88966d840.js",
+      "app-0b74dd69cc72ee11736b.js",
       "build-js-styles.css",
-      "app-d93028fd81b88966d840.js.map",
+      "app-0b74dd69cc72ee11736b.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
