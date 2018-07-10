@@ -8,6 +8,10 @@
       "path----fb0a0bc612aacafcbdfe.js",
       "path----fb0a0bc612aacafcbdfe.js.map"
     ],
+    "path---wg-problems": [
+      "path---wg-problems-14b413d66a22728d3969.js",
+      "path---wg-problems-14b413d66a22728d3969.js.map"
+    ],
     "component---src-layouts-index-js": [
       "component---src-layouts-index-js-4096b644aaaf3dfd0b8f.js",
       "component---src-layouts-index-js-4096b644aaaf3dfd0b8f.js.map"
@@ -25,8 +29,8 @@
       "path---page-2-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---index": [
-      "path---index-c33a51e029b3b3f1ea26.js",
-      "path---index-c33a51e029b3b3f1ea26.js.map"
+      "path---index-d504e2c8fcf586c478b1.js",
+      "path---index-d504e2c8fcf586c478b1.js.map"
     ],
     "path---hello-world": [
       "path---hello-world-0f7a2557a9a8f3bf60f4.js",
@@ -59,9 +63,9 @@
       "path---best-bank-accounts-in-germany-11f2baf65ffddd9f1512.js.map"
     ],
     "app": [
-      "app-0b74dd69cc72ee11736b.js",
+      "app-357031c09cc0f9537fa4.js",
       "build-js-styles.css",
-      "app-0b74dd69cc72ee11736b.js.map",
+      "app-357031c09cc0f9537fa4.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
